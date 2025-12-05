@@ -3,7 +3,7 @@
 **Estudiante de último año de Ingeniería Civil en Informática y Telecomunicaciones**.  
 Apasionado por el **desarrollo de software**, **aplicaciones web**, **ciencia de datos** y por comprender cómo funcionan los sistemas: sus arquitecturas, infraestructura y cómo hacerlos más seguros, escalables y mantenibles.
 
-Actualmente continúo formándome en tecnologías para backend, frontend, DevOps y análisis de datos, mientras desarrollo proyectos personales y académicos.
+Actualmente continúo formándome en tecnologías para backend, frontend y análisis de datos, mientras desarrollo proyectos personales y académicos.
 
 ---
 
