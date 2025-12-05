@@ -14,7 +14,7 @@ Actualmente continúo formándome en tecnologías para backend, frontend, DevOps
 - 🎮 **Hobbies:** Videojuegos, fútbol, tenis, ajedrez, Fórmula 1 y lectura diaria de noticias.
 - 📬 **Contacto:** **pipemendezri@gmail.com**
 - 🔗 **LinkedIn:** [linkedin.com/in/felipe-mendezr](https://www.linkedin.com/in/felipe-mendezr)
-- 🌐 **Portafolio:** [https://felipe-mendez.vercel.app](https://felipe-mendez.vercel.app)
+- 🌐 **Portafolio:** [felipe-mendez](https://felipe-mendez.vercel.app)
 
 ---
 
