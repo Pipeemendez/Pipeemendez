@@ -11,7 +11,7 @@ Actualmente continúo formándome en tecnologías para backend, frontend, DevOps
 
 - 💻 **Intereses:** Desarrollo web (frontend & backend), microservicios, data science, arquitectura de software, automatización y cloud.
 - 🏗️ **Experiencia previa:** Desarrollo con Node.js, Express, Laravel, MongoDB, Docker, Python, SQL Server y proyectos SOA con WebSockets.
-- 🎮 **Hobbies:** Videojuegos, fútbol, tenis, ajedrez, Fórmula 1 y lectura diaria de noticias.
+- 🎮 **Hobbies:** Videojuegos, escuchar y tocar música, ver deportes como fútbol, tenis, ajedrez y fórmula 1.
 - 📬 **Contacto:** **pipemendezri@gmail.com**
 - 🔗 **LinkedIn:** [linkedin.com/in/felipe-mendezr](https://www.linkedin.com/in/felipe-mendezr)
 - 🌐 **Portafolio:** [felipe-mendez](https://felipe-mendez.vercel.app)
